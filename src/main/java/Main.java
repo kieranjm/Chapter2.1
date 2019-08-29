@@ -11,6 +11,8 @@
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Hello World");
+        String greetingPhrase = ("Hello Class");
+        int funNumber = 5;
+        System.out.println(greetingPhrase + "! " + funNumber);
     }
 }
