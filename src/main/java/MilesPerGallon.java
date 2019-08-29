@@ -15,6 +15,6 @@ public class MilesPerGallon {
         float gallonsUsed = 10;
         float milesPerGallon = milesDriven / gallonsUsed;
         
-        System.out.println("Miles per gallon:\t" + milesPerGallon);
+        System.out.println("Miles per gallon: " + milesPerGallon);
     }
 }
